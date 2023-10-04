@@ -1,5 +1,3 @@
-# PacmanDemo
- 
 <h1>Pacman Demo</hi>
 
 <h5>This demo was created as part of the MITxEmeritus course.</h5>
